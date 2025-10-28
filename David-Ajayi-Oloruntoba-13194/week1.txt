@@ -1,0 +1,3 @@
+What is Software Engineering
+
+Software engineering is the systematic application of engineering principles to the design, development, testing, and maintenance of software systems. It aims to produce reliable, efficient, and scalable software that meets user needs and performs well in real-world environments. Unlike simple programming, software engineering involves structured processes, teamwork, documentation, and quality assurance to ensure that software can be maintained and improved over time.
